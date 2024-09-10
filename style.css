@@ -64,11 +64,13 @@ body > main article {
 form {
     Text-align: center;
 }
-h2{
+h2 {
     text-align: center;
+    color:#829df8
 }
 body > footer {
     background-color: rgb(10, 10, 89);
+    color: white;
     display: flex;
 }
 #footer-ul{
