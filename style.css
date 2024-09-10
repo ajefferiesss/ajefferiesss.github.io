@@ -7,7 +7,6 @@ body {
     margin: 0px;
     padding: 8px;
     font-family: "Fredoka One", sans-serif;
-    box-shadow: 8px 8px 10px 3px darkorange;
     width: 15%;
     border-radius: 30vw;
     text-shadow: 
@@ -22,7 +21,7 @@ ul {
 }
 
 body > header {
-    background-color: orange;
+    background-color: rgb(10, 10, 89);
     color: rgb(255,255,255);
     display: flex;
     height: 12vh;
@@ -44,7 +43,7 @@ body > header > nav > ul {
     text-decoration: none;
 }
 .navbutton {
-    color: #f17f42;
+    color: #829df8;
     text-decoration: none;
     padding: 15px;
     border: 1px solid white;
@@ -69,7 +68,7 @@ h2{
     text-align: center;
 }
 body > footer {
-    background-color: orange;
+    background-color: rgb(10, 10, 89);
     display: flex;
 }
 #footer-ul{
